@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "112224240597",
+    "project_id": "traveldrop-cd3d1",
+    "storage_bucket": "traveldrop-cd3d1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112224240597:android:6b28a006ec24d7e001b35c",
+        "android_client_info": {
+          "package_name": "com.company.traveldrop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQoGSmwJQaMbomlUDe9yxssEQxEmsD3bc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112224240597:android:d73091c688304c7301b35c",
+        "android_client_info": {
+          "package_name": "com.example.traveldrop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQoGSmwJQaMbomlUDe9yxssEQxEmsD3bc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
